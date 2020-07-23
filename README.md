@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on <b>Ⲙyself</b>
+### 🔭 I’m currently working on <I>Ⲙyself</I>
 
-### 🌱 I’m currently learning: <b>it's a secret (⌐ ͡■ ͜ʖ ͡■)</b>
+### 🌱 I’m currently learning: <I>it's a secret (⌐ ͡■ ͜ʖ ͡■)</I>
 
-### ⚡ Fun fact: <b>Hot dog is a sandwich </b>
+### ⚡ Fun fact: <I>Hot dog is a sandwich </I>
 
 ![subedigaurav's github stats](https://github-readme-stats.vercel.app/api?username=subedigaurav&show_icons=true&theme=dark)
