@@ -1,7 +1,7 @@
 <!-- github stats -->
 <div align="center">
 
-## HI THERE! 👋
+<h1> HI THERE! <img src="https://media.giphy.com/media/Xzd3IrFzLskG3ermeJ/giphy.gif"  width="30px" /> </h1>
 
 ### 🔭 I’m currently working on Ⲙyself
 
