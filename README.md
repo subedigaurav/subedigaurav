@@ -5,9 +5,9 @@
 
 ### 🔭 I’m currently working on Ⲙyself
 
-### 🌱 I’m currently learning: <I>it's a secret (⌐ ͡■ ͜ʖ ͡■)</I>
+### 🌱 I’m currently learning: <I>Cloud Computing (⌐ ͡■ ͜ʖ ͡■)</I>
 
-### ⚡ Fun fact: <I>Hot dog is a sandwich </I>
+### ⚡ Fun fact: <I>Water makes different pouring sounds depending on its temperature.</I>
 
 ![subedigaurav's github stats](https://github-readme-stats.vercel.app/api?username=subedigaurav&show_icons=true&theme=dark)
 
