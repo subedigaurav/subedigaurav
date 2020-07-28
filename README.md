@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently working on Ⲙyself
 
-### 🌱 I’m currently learning: <I>Cloud Computing (⌐ ͡■ ͜ʖ ͡■)</I>
+<!-- ### 🌱 I’m currently learning: <I>Cloud Computing (⌐ ͡■ ͜ʖ ͡■)</I> -->
 
 ### ⚡ Fun fact: <I>Water makes different pouring sounds depending on its temperature.</I>
 
